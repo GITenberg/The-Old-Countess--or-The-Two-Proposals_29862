@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3257'
     url: http://www.gutenberg.org/2009/agents/3257
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29862#The-Old-Countess--or-The-Two-Proposals
 gutenberg_issued: '2009-08-30'
 gutenberg_type: Text
 identifiers:
